@@ -1,6 +1,6 @@
 # Data Science Capstone: NBA Win Prediction
 
-This project examines whether a team's recent (20-game rolling) performance can predict NBA game outcomes more accurately than relying on season-long results or reputation. This is a predictive task using Logistic Regression, Random Forest, and XGBoost, comparing a linear baseline against two tree-based ensemble methods.
+This project examines whether a team's recent (20-game rolling) performance can predict NBA game outcomes more accurately than relying on season record or reputation. This is a binary classification task using Logistic Regression, Random Forest, and XGBoost, comparing a linear baseline against two tree-based ensemble methods
 
 The repository is organized into four sections: data, database, notebooks, and reports. Data and notebooks are the two sections needed to run this project. Database contains the SQLite database built from the raw data, and reports contains the presentation slides.
 
