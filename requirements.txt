@@ -1,0 +1,14 @@
+# Data Science Capstone: NBA Win Prediction
+# Grant Robinson, MSDS640
+#
+# Versions come from the reproducibility cell at the end of the final notebook.
+# sqlite3 and sys are part of the Python standard library, so they are not listed here.
+#
+# Install with:  pip install -r requirements.txt
+pandas==2.2.2
+numpy==2.0.2
+scikit-learn==1.6.1
+scipy==1.16.3
+xgboost==3.3.0
+matplotlib==3.10.0
+seaborn==0.13.2
